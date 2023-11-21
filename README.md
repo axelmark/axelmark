@@ -2,7 +2,7 @@
 
  #### About me
 
- - I learn Java at [Job4j](https://job4j.ru) ☕
+ - I learn Java at [Job4j](https://job4j.ru)  :computer:
  - I learn Computer science in TSU. 🏢
  - My Java expirience is 3 years ⌚
 _______________________________________________
