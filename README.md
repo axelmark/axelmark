@@ -19,7 +19,7 @@ _______________________________________________
 ##### Here is my study projects:
 
 ###### Lessons of:
-1. [Java Developer. (Basic)](https://github.com/axelmark/job4j_elementary)
+1. [Java Developer (Elementary)](https://github.com/axelmark/job4j_elementary)
 2. [Java SE]()
 3. [SQL & JDBC, GC and OOD]()
 4. [Multithreading in Java]()
