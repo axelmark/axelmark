@@ -21,7 +21,7 @@ _______________________________________________
 ###### Lessons of:
 1. [Java Developer (Elementary)](https://github.com/axelmark/job4j_elementary)
 2. [Java Developer (Junior)](https://github.com/axelmark/job4j_design)
-3. [Java SE](https://github.com/axelmark/job4j_design)
+3. [Java SE]()
 4. [SQL & JDBC, GC and OOD]()
 5. [Multithreading in Java]()
 ###### Projects:
