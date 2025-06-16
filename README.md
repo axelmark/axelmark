@@ -1,3 +1,21 @@
+## Иван Петров | Java Backend Developer (Middle/Senior)  
+📍 Москва, Россия | 📞 +7 (XXX) XXX-XX-XX | ✉️ ivan.petrov@gmail.com | 🔗 [LinkedIn](...) | [GitHub](...)  
+
+### 🛠 Технические навыки  
+- **Языки**: Java 17, SQL.  
+- **Фреймворки**: Spring Boot, Hibernate, Kafka.  
+- **Инфраструктура**: Docker, Kubernetes, AWS (S3, Lambda).  
+
+### 💼 Опыт работы  
+**Java Developer @ FinTech Corp** | 2021–2023  
+- Разработал микросервис для платежей (Spring Boot + Kafka), сократив время обработки на 25%.  
+
+### 🔨 Пет-проекты  
+**Highload Analytics Service** | [GitHub](...)  
+- Стек: Spring WebFlux, Redis, Prometheus.  
+
+
+
 ### Hi! 👋 My name is Alexey. Welcome! ✌️
 
  #### About me
