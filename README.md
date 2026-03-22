@@ -42,7 +42,7 @@ _______________________________________________
 
 ###### Android apps:
 
-1. [Rotation sensor visualizer]()
+1. [PressureTracker]()
 2. [GPS Tracker]()
 
 
