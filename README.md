@@ -5,7 +5,7 @@
 - I'm learning Java at [Job4j](https://job4j.ru) :computer:
 - I study Computer Science at TSU 🏢
 - My Java experience is 3+ years ⌚
-- I'm currently diving into Spring Boot, microservices, and cloud technologies 🌱
+- I'm currently diving into Spring Boot, microservices, cloud technologies, and Android development 🌱
 
 ---
 
