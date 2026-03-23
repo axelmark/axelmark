@@ -39,7 +39,7 @@
 - [Job market with Servlet API & Hibernate](https://github.com/axelmark/job-market) *(in progress)*
 - [Car accident registration app with Spring](https://github.com/axelmark/accident-spring) *(in progress)*
 - [Forum with Spring](https://github.com/axelmark/forum-spring) *(in progress)*
-- [REST API for TodoList with Spring](https://github.com/axelmark/todolist-rest) *(in progress)*
+- [REST API for TodoList with Spring](https://github.com/axelmark/todolist)
 - [Publications & articles searcher with Spring](https://github.com/axelmark/publication-searcher) *(in progress)*
 - [URL shortener service with Spring](https://github.com/axelmark/url-shortener) *(in progress)*
 
