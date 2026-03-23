@@ -64,3 +64,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axelmark&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![wakatime](https://wakatime.com/badge/user/ваш_айди.svg)](https://wakatime.com/@ваш_айди)
