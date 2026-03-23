@@ -11,6 +11,21 @@
 
 #### Core technologies
 
+**Languages & Frameworks**
+
+![Java](https://img.shields.io/badge/Java-%3E%3D%2011-orange?style=flat-square&logo=java)
+![Spring](https://img.shields.io/badge/Spring-%3E%3D%205.0-brightgreen?style=flat-square&logo=spring)
+![Hibernate](https://img.shields.io/badge/Hibernate-%3E%3D%205.0-yellow?style=flat-square&logo=hibernate)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+**Tools & Databases**
+
+![Maven](https://img.shields.io/badge/Maven-3-red?style=flat-square&logo=apache-maven)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%2012-blue?style=flat-square&logo=postgresql)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+#### Core technologies
+
 ![Java](https://img.shields.io/badge/Java-%3E%3D%2011-orange?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/Spring-%3E%3D%205.0-brightgreen?style=flat-square&logo=spring)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%3E%3D%205.0-yellow?style=flat-square&logo=hibernate)
