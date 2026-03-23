@@ -47,8 +47,9 @@
 
 #### 🤖 Android apps
 
-1. [PressureTracker](https://github.com/axelmark/PressureTracker) — Blood pressure tracker with local database  
-2. [GPS Tracker](https://github.com/axelmark/gps-tracker) *(in progress)*
+1. [PressureTracker](https://github.com/axelmark/PressureTracker) — Blood pressure tracker with local database
+2. [Rats Race]*(in progress)*
+3. [GPS Tracker](https://github.com/axelmark/gps-tracker) *(in progress)*
 
 ---
 
