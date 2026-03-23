@@ -1,4 +1,4 @@
-### Hi! 👋 My name is Alexey. Welcome! ✌️
+### Hi! 👋 My name is Alex. Welcome! ✌️
 
 #### 👤 About me
 
