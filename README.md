@@ -1,6 +1,6 @@
 ### Hi! 👋 My name is Alexey. Welcome! ✌️
 
-#### About me
+#### 👤 About me
 
 - I'm learning Java at [Job4j](https://job4j.ru) :computer:
 - I study Computer Science at TSU 🏢
@@ -9,7 +9,7 @@
 
 ---
 
-#### Core technologies
+#### 🛠️ Core technologies
 
 ![Java](https://img.shields.io/badge/Java-%3E%3D%2011-orange?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/Spring-%3E%3D%205.0-brightgreen?style=flat-square&logo=spring)
@@ -21,7 +21,7 @@
 
 ---
 
-#### Study projects
+#### 📚 Study projects
 
 **Coursework:**
 
