@@ -22,16 +22,32 @@
 
 #### Study projects
 
-1. [job4j_tracker](https://github.com/axelmark/job4j_tracker) — Console CRUD app with JDBC and PostgreSQL
-2. [job4j_grabber](https://github.com/axelmark/job4j_grabber) — HTML parser using Jsoup
-3. [Java Developer (Elementary)](https://github.com/axelmark/job4j_elementary) — coursework
-4. [Java Developer (Junior)](https://github.com/axelmark/job4j_design) — coursework
+**Coursework:**
+
+1. [Java Developer (Elementary)](https://github.com/axelmark/job4j_elementary)
+2. [Java Developer (Junior)](https://github.com/axelmark/job4j_design)
+3. [job4j_tracker](https://github.com/axelmark/job4j_tracker) — Console CRUD app with JDBC and PostgreSQL
+4. [job4j_grabber](https://github.com/axelmark/job4j_grabber) — HTML parser using Jsoup
+
+**Pet projects:**
+
+- [Multilanguage console app runner](https://github.com/axelmark/console-runner) *(in progress)*
+- [Simulating RabbitMQ using Servlet API](https://github.com/axelmark/simulate-rabbitmq) *(in progress)*
+- [TodoList with Servlet API & Hibernate](https://github.com/axelmark/todolist-servlet) *(in progress)*
+- [Car market with Servlet API & Hibernate](https://github.com/axelmark/car-market) *(in progress)*
+- [Job market with Servlet API & Hibernate](https://github.com/axelmark/job-market) *(in progress)*
+- [Car accident registration app with Spring](https://github.com/axelmark/accident-spring) *(in progress)*
+- [Forum with Spring](https://github.com/axelmark/forum-spring) *(in progress)*
+- [REST API for TodoList with Spring](https://github.com/axelmark/todolist-rest) *(in progress)*
+- [Publications & articles searcher with Spring](https://github.com/axelmark/publication-searcher) *(in progress)*
+- [URL shortener service with Spring](https://github.com/axelmark/url-shortener) *(in progress)*
 
 ---
 
-#### Android apps
+#### 🤖 Android apps
 
-1. [PressureTracker](https://github.com/axelmark/PressureTracker) — Blood pressure tracker with local database
+1. [PressureTracker](https://github.com/axelmark/PressureTracker) — Blood pressure tracker with local database  
+2. [GPS Tracker](https://github.com/axelmark/gps-tracker) *(in progress)*
 
 ---
 
