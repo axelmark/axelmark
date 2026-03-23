@@ -61,3 +61,6 @@
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=axelmark&color=0e75b6&style=flat)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axelmark&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
