@@ -57,7 +57,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@your_username-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/your_username)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-your--profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-your_email%40example.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your_email@example.com)
+[![Email](https://img.shields.io/badge/Email-axelmark%40outlook.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:axelmark@outlook.com)
 [![Website](https://img.shields.io/badge/Website-axelmark.github.io-blue?style=flat-square&logo=githubpages&logoColor=white)](https://axelmark.github.io)
 
 ---
