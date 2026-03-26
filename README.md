@@ -55,10 +55,6 @@
 
 #### 📫 How to reach me
 
-<a href="https://t.me/your_username" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Telegram-@your_username-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
-</a>
-
 [![Telegram](https://img.shields.io/badge/Telegram-@your_username-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/your_username)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-your--profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Email-your_email%40example.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your_email@example.com)
