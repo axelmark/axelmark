@@ -32,16 +32,16 @@
 
 **Pet projects:**
 
-- [Multilanguage console app runner](https://github.com/axelmark/console-runner) *(in progress)*
-- [Simulating RabbitMQ using Servlet API](https://github.com/axelmark/simulate-rabbitmq) *(in progress)*
-- [TodoList with Servlet API & Hibernate](https://github.com/axelmark/todolist-servlet) *(in progress)*
-- [Car market with Servlet API & Hibernate](https://github.com/axelmark/car-market) *(in progress)*
-- [Job market with Servlet API & Hibernate](https://github.com/axelmark/job-market) *(in progress)*
-- [Car accident registration app with Spring](https://github.com/axelmark/accident-spring) *(in progress)*
-- [Forum with Spring](https://github.com/axelmark/forum-spring) *(in progress)*
+- [Multilanguage console app runner](https://github.com/axelmark/console-runner) 
+- [Simulating RabbitMQ using Servlet API](https://github.com/axelmark/simulate-rabbitmq) 
+- [TodoList with Servlet API & Hibernate](https://github.com/axelmark/todolist-servlet) 
+- [Car market with Servlet API & Hibernate](https://github.com/axelmark/car-market) 
+- [Job market with Servlet API & Hibernate](https://github.com/axelmark/job-market) 
+- [Car accident registration app with Spring](https://github.com/axelmark/accident-spring) 
+- [Forum with Spring](https://github.com/axelmark/forum-spring) 
 - [REST API for TodoList with Spring](https://github.com/axelmark/todolist)
-- [Publications & articles searcher with Spring](https://github.com/axelmark/publication-searcher) *(in progress)*
-- [URL shortener service with Spring](https://github.com/axelmark/url-shortener) *(in progress)*
+- [Publications & articles searcher with Spring](https://github.com/axelmark/publication-searcher) 
+- [URL shortener service with Spring](https://github.com/axelmark/url-shortener) 
 
 ---
 
